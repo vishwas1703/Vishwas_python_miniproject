@@ -23,3 +23,6 @@ Functions defined and used in the project are.
 - Program prints the sheet names from which data needs to extracted and asks to enter sheet name.
 -Program copies the data from selected sheet name to new excel file.
 -At the end of program a new excel file is created containg specified data.
+### **Use Case Diagram**
+Figure below shows case diagram of project.
+![case diagram](case diagram.PNG)
