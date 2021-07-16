@@ -10,4 +10,11 @@
 
 ## ***pylint***
 ---
+Figure shows the pylint results.
+
+
 ![Pylint results](pylint.PNG)
+
+## ***Use Case Diagram***
+case diagram of project is shown below.
+![case](casediagram.PNG)
