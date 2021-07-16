@@ -25,4 +25,4 @@ Functions defined and used in the project are.
 -At the end of program a new excel file is created containg specified data.
 ### **Use Case Diagram**
 Figure below shows case diagram of project.
-![case](case diagram.PNG)
+![case](casediagram.PNG)
