@@ -11,7 +11,7 @@ from openpyxl import Workbook
 wb = openpyxl.load_workbook("Excel.xlsx")
 sheets = wb.sheetnames
 length = len(sheets)
-sheet = wb["semester marks"]
+sheet = wb["SemesterMarks"]
 row = sheet.max_row
 column = sheet.max_column
 
