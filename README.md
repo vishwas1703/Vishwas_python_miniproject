@@ -18,3 +18,8 @@ Figure shows the pylint results.
 ## ***Use Case Diagram***
 case diagram of project is shown below.
 ![case](casediagram.PNG)
+
+
+## ***Pytest***
+Figure shows pytest results of the program.
+![pytest](pytest.png)
