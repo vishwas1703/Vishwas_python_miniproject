@@ -13,7 +13,9 @@ jobs:
       uses: actions/setup-python@v2
       with:
         python-version: 3.9
-    - name: Install dependencies
+    - name: pip install turtle
+            pip install random
+            pip install freegames
       run: |
         python -m pip install --upgrade pip
         pip install pylint
